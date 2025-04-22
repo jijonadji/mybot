@@ -6,7 +6,7 @@ import time
 from datetime import datetime, timedelta
 
 # إعدادات البوت
-TOKEN = '7439885577:AAGOxqyokKwB8EYBL7lgSxfgFer-xVLMX8o'
+TOKEN = '8158296087:AAFNYc1mfo9ohhWk19YjavaFXsXXdvxhOSc'
 ADMIN_ID = 1963100599
 bot = telebot.TeleBot(TOKEN)
 
